@@ -1,4 +1,4 @@
-# ✨ ASCII emojis (⌐■_■)
+# ✨ ASCII Emojis and ANSI Colors (⌐■_■)
 
 ### 👀 So ...
 It's very likely that you have seen this kind of emoji on social networks but never found (or forgot where you saved) how to do them or the characters needed to create them.
@@ -8,7 +8,10 @@ Anyway, here is the object full of them with infinite possibilities to use and i
 ### 👍 Steps
 To run this project on your own, do the following: 
 1. Clone this project..
-2. Run `dart main.dart` on terminal
+2. Run `dart lib/main.dart` on terminal
 3. Have fun
 ***
+
+### 💻 Example
+![image](./image.png)
 
